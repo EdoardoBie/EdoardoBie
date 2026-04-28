@@ -1,7 +1,7 @@
 # Hi, I'm Edoardo Biestro! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=180&section=header&text=Edoardo%20Biestro&fontSize=80&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=39D353&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Edoardo+Biestro!+👋;Aspiring+Computer+Engineer+💻;Author+%26+Music+Producer+🎵" alt="Typing SVG" />
 </p>
 
 ### 🚀 Aspiring Computer Engineer | ✍️ Author | 🎵 Music Producer 
