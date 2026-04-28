@@ -1,10 +1,7 @@
-# Hi, I'm Edoardo Biestro! 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=39D353&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Edoardo+Biestro!+👋;Aspiring+Computer+Engineer+💻;Author+%26+Music+Producer+🎵" alt="Typing SVG" />
-</p>
-
-### 🚀 Aspiring Computer Engineer | ✍️ Author | 🎵 Music Producer 
+<div align="center">
+  <h1>Hi, I'm Edoardo Biestro! 👋</h1>
+  <h3>🚀 Aspiring Computer Engineer | ✍️ Author | 🎵 Music Producer</h3>
+</div>
 
 > *"Crafting clarity from complexity through technology and creativity."*
 
