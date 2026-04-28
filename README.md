@@ -1,12 +1,16 @@
-# Ciao, sono Edoardo Biestro! 👋
+# Hi, I'm Edoardo Biestro! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Edoardo%20Biestro&fontSize=90&animation=fadeIn" />
 </p>
 
-### 🚀 Software Developer | Tech Enthusiast | Problem Solver
+### 🚀 Aspiring Computer Engineer | Author | Music Producer 
 
-Sono uno sviluppatore appassionato di tecnologia che ama trasformare idee complesse in soluzioni digitali eleganti e funzionali. Credo nel potere dell'open source e nell'apprendimento continuo.
+*“Crafting clarity from complexity through technology and creativity.”*
+
+I am an aspiring computer engineer born in 2007 with an insatiable curiosity about the world around me. Technology and science are not just a passion for me, but a true calling. I love exploring electronic circuits, robotic mechanisms, and artificial intelligence algorithms, trying to understand every secret they hold.
+
+When I'm not exploring tech, my analytical mind finds balance in creativity: I compose Hip-Hop/Rap tracks in American English and I am the author of the book **"L'Origine del Senso"** (*The Origin of Sense*). 
 
 ---
 
@@ -17,25 +21,27 @@ Sono uno sviluppatore appassionato di tecnologia che ama trasformare idee comple
 
 ---
 
-### 🛠 Esperienze e Background
+### 🛠 About Me
 
-- 💼 **Attualmente:** Lavoro su [Inserisci Progetto/Azienda] focalizzandomi su [Tua Tecnologia].
-- 🎓 **Formazione:** [Laurea/Corso] presso [Nome Istituzione].
-- 💡 **Interessi:** Architettura del software, UI/UX Design e Cloud Computing.
+- 🔭 **Currently focusing on:** Artificial Intelligence, Robotics, and Software Development.
+- 🎓 **Education:** IT Student at Istituto Archimede (Class of 2026).
+- 📚 **Author of:** *"L'Origine del Senso"* (Published in 2025).
+- 🎵 **Hobbies:** Composing Hip-Hop/Rap music in American English.
+- 🌱 **Goal:** To become an innovator and develop solutions that positively impact people's lives.
 
 ---
 
-### 💻 Competenze Tecniche
+### 💻 Tech Stack & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,git,docker,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,react,html,css,git,github,arduino,linux" />
   </a>
 </p>
 
 ---
 
-### 📊 Statistiche GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edoardobie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -44,16 +50,20 @@ Sono uno sviluppatore appassionato di tecnologia che ama trasformare idee comple
 
 ---
 
-### 📫 Come trovarmi
+### 📫 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/tuo-profilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edoardo Biestro" height="30" width="40" /></a>
-<a href="mailto:tua-email@esempio.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="tua-email@esempio.com" height="30" width="40" /></a>
+  <a href="https://edoardobie.github.io/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Website-edoardobie.github.io-blue?style=flat-square&logo=google-chrome" alt="Website" height="30" />
+  </a>
+  <a href="https://github.com/edoardobie" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-edoardobie-black?style=flat-square&logo=github" alt="GitHub" height="30" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Il codice è come l'umorismo. Quando devi spiegarlo, è brutto."</i><br>
-  ⭐️ Se ti piacciono i miei progetti, lascia una stella!
+  <i>"I'm not content to merely observe technological progress: I want to be a protagonist in it."</i><br>
+  ⭐️ If you like my projects, feel free to leave a star!
 </p>
