@@ -1,16 +1,16 @@
 # Hi, I'm Edoardo Biestro! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Edoardo%20Biestro&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=180&section=header&text=Edoardo%20Biestro&fontSize=80&animation=fadeIn" />
 </p>
 
-### 🚀 Aspiring Computer Engineer | Author | Music Producer 
+### 🚀 Aspiring Computer Engineer | ✍️ Author | 🎵 Music Producer 
 
-*“Crafting clarity from complexity through technology and creativity.”*
+> *"Crafting clarity from complexity through technology and creativity."*
 
-I am an aspiring computer engineer born in 2007 with an insatiable curiosity about the world around me. Technology and science are not just a passion for me, but a true calling. I love exploring electronic circuits, robotic mechanisms, and artificial intelligence algorithms, trying to understand every secret they hold.
+I’m a 2007-born tech enthusiast blending **analytical thinking** with **creative expression**. Whether I'm wiring electronic circuits, experimenting with AI algorithms, or writing clean code, my goal is always the same: turning complex problems into elegant solutions.
 
-When I'm not exploring tech, my analytical mind finds balance in creativity: I compose Hip-Hop/Rap tracks in American English and I am the author of the book **"L'Origine del Senso"** (*The Origin of Sense*). 
+Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-Hop/Rap** tracks in American English and recently published my book, **"L'Origine del Senso"**. 
 
 ---
 
