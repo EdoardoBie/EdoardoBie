@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Edoardo Biestro! 👋</h1>
-  <h3>🚀 Aspiring Computer Engineer | ✍️ Author | 🎵 Music Producer</h3>
+  <h1>Hi, I'm Edoardo Biestro!</h1>
+  <h3> Aspiring Computer Engineer | Author | Music Producer</h3>
 </div>
 
 > *"Crafting clarity from complexity through technology and creativity."*
@@ -11,7 +11,7 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### GitHub Contribution Snake
 <p align="center">
   <img src="https://github.com/edoardobie/edoardobie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
@@ -20,15 +20,15 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 
 ### 🛠 About Me
 
-- 🔭 **Currently focusing on:** Artificial Intelligence, Robotics, and Software Development.
-- 🎓 **Education:** IT Student at Istituto Archimede (Class of 2026).
-- 📚 **Author of:** *"L'Origine del Senso"* (Published in 2024).
-- 🎵 **Hobbies:** Composing Hip-Hop/Rap music in American English.
-- 🌱 **Goal:** To become an innovator and develop solutions that positively impact people's lives.
+-  **Currently focusing on:** Artificial Intelligence, Robotics, and Software Development.
+-  **Education:** IT Student at Istituto Archimede (Class of 2026).
+-  **Author of:** *"L'Origine del Senso"* (Published in 2024).
+-  **Hobbies:** Composing Hip-Hop/Rap music in American English.
+-  **Goal:** To become an innovator and develop solutions that positively impact people's lives.
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edoardobie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -47,7 +47,7 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://edoardobie.github.io/" target="blank">
@@ -62,5 +62,5 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 
 <p align="center">
   <i>"I'm not content to merely observe technological progress: I want to be a protagonist in it."</i><br>
-  ⭐️ If you like my projects, feel free to leave a star!
+ If you like my projects, feel free to leave a star!
 </p>
