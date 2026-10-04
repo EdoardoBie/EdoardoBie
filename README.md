@@ -21,7 +21,7 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 ### 🛠 About Me
 
 -  **Currently focusing on:** Artificial Intelligence, Robotics, and Software Development.
--  **Education:** IT Student at Istituto Archimede (Class of 2026).
+-  **Education:** Politecnico Milano - Ingegneria Informatica.
 -  **Author of:** *"L'Origine del Senso"* (Published in 2024).
 -  **Hobbies:** Composing Hip-Hop/Rap music in American English.
 -  **Goal:** To become an innovator and develop solutions that positively impact people's lives.
