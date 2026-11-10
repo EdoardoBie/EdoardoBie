@@ -50,7 +50,7 @@ Beyond the screen, I balance my logic-driven mindset with art. I compose **Hip-H
 ### Let's Connect
 
 <p align="left">
-  <a href="https://edoardobie.github.io/" target="blank">
+  <a href="https://edoardobiestro.vercel.app/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Website-edoardobie.github.io-blue?style=flat-square&logo=google-chrome" alt="Website" height="30" />
   </a>
   <a href="https://github.com/edoardobie" target="blank">
